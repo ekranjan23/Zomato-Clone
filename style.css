@@ -1,0 +1,360 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+.section1 {
+    background-image: url("back.png");
+    min-height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.menupart {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-size: 17px;
+    padding: 25px 200px;
+}
+
+.rightmenu>span {
+    margin: 0px 15px;
+
+}
+
+.imglogo {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.head>p {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    margin: 37px 0px;
+}
+
+
+
+.searchable {
+    background-color: white;
+    margin: 0px 333px;
+    display: flex;
+    height: 50px;
+
+}
+
+.searchable {
+    border-radius: 15px;
+}
+
+
+
+.location {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: blanchedalmond; */
+    padding: 15px;
+    border-radius: 15px;
+
+}
+
+.loctext>span {
+    margin-left: 10px;
+}
+
+.downimg>img {
+    opacity: 0.7;
+}
+
+
+.kolkata {
+    display: flex;
+
+
+}
+
+.danta {
+    margin: 13px -7px;
+    opacity: 0.7;
+}
+
+.search {
+    /* background-color: aqua; */
+    width: 70%;
+    border-radius: 200px;
+
+}
+
+.dabba {
+    display: flex;
+    padding: 15px;
+    opacity: 0.7;
+
+}
+
+.search1>img {
+    padding: 0px 15px;
+
+}
+
+.allsection {
+    min-height: 2000px;
+    margin: 40px 220px;
+    /* background-color: antiquewhite; */
+    padding: 10px;
+}
+
+.section2 {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 100px;
+}
+
+.card {
+    height: 300px;
+    width: 350px;
+    border: 1px solid black;
+    margin: 0px 10px;
+    border-radius: 15px;
+
+
+}
+
+.card:hover {
+    border: 2px outset white;
+}
+
+.sec3p {
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+
+
+.img1 {
+    background-image: url('sec11.png');
+    height: 75%;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.img2 {
+    background-image: url('sec12.png');
+    height: 75%;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.img3 {
+    background-image: url('sec13.png');
+    height: 75%;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.textsec2 {
+
+    padding: 15px;
+}
+
+.order {
+    font-size: 20px;
+}
+
+.des1 {
+    opacity: 0.9;
+    margin-top: 5px;
+}
+
+.section3>p {
+    opacity: 0.9;
+}
+
+.section3>p>span {
+    color: red;
+}
+
+.section4 {
+    margin-bottom: 80px;
+}
+
+.ecard {
+    height: 320px;
+    width: 250px;
+    margin: 30px 10px;
+    border-radius: 5px;
+    padding: 15px;
+    color: white;
+
+
+
+}
+
+.ecard:hover {
+    border: 2px groove white;
+}
+
+.ecard1 {
+
+    background-image: url('sec21.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.ecard2 {
+    background-image: url('sec22.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ecard3 {
+    background-image: url('sec23.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ecard4 {
+    background-image: url('sec24.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.section4 {
+    display: flex;
+    justify-content: center;
+}
+
+.ecardtext {
+    margin-top: 282px;
+}
+
+.paraecard {
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.onlyhead {
+    font-size: 35px;
+    opacity: 0.9;
+    margin: 10px 0px;
+
+}
+
+.card5 {
+    height: 20px;
+    width: 30px;
+}
+
+.section5 {
+    margin: 30px 0px;
+}
+
+.section51 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card5 {
+    height: 80px;
+    width: 330px;
+    border-radius: 5px;
+    border: 2px outset rgb(213, 213, 213);
+    background-color: rgb(255, 255, 255);
+    padding: 5px 0px 0px 5px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.card5:hover {
+    border: 2px groove white;
+}
+
+.card5next>img {
+    margin: 30px 15px 0px 0px;
+}
+
+.card5text {
+    margin: 14px 0px 0px 12px;
+}
+
+.section51 {
+    margin: 20px 0px;
+}
+
+.section6 {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.langindia {
+    display: flex;
+}
+
+.lag {
+    display: flex;
+}
+
+.india {
+    display: flex;
+}
+
+.jurva {
+    border: 1px solid black;
+    border-radius: 5px;
+
+    padding: 8px;
+    margin-left: 30px;
+}
+
+.textindia {
+    margin: 0px 10px;
+}
+
+.textEnglish {
+    margin: 0px 10px;
+}
+
+.section7 {
+    margin-top: 40px;
+}
+
+.section7 {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 60px;
+    margin-bottom: 50px;
+}
+
+.seku>p {
+    margin: 22px 0px;
+    opacity: 0.7;
+    font-size: 15px;
+}
+
+
+.last {
+    margin: 10px 0px;
+}
+
+.imgcolection {
+    margin-bottom: 30px;
+}
+
+.ppp {
+    padding-top: 30px;
+    opacity: 0.7;
+    font-size: 13px;
+}
